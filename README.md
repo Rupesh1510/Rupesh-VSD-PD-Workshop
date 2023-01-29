@@ -46,6 +46,18 @@ This is the repo containing all the documentations for VSD PD workshop. it uses 
   - [References](#references)
   - [Acknowledgement](#acknowledgement)
 
+## Introduction To RTL to GDSII Flow
+  RTL to GDSII Flow refers to the all the steps involved in converting a logical Register Transfer Level(RTL) Design to a fabrication ready GDSII format. GDSII is a database file format which is an industry standard for data exchange of IC layout artwork.
+  The RTL to GSDII flow consists of following steps:
+  - RTL Synthesis
+  - Static Timing Analysis(STA)
+  - Design for Testability(DFT)
+  - Floorplanning / Powerplanning
+  - Placement
+  - Clock Tree Synthesis(CTS)
+  - Routing
+  - GDSII Streaming
+
 #Day1 task:
 
 ## OpenLANE Initialization:
