@@ -81,6 +81,25 @@ flop ratio = (# D Flip-Flop) / (# cell)
 
 ![image](https://user-images.githubusercontent.com/94752269/215266491-a19084c7-5f40-4a04-800c-9a4a272a9405.png)
 
+#Day 2
+
+Configuration precedance
+
+openlane/designs/picorv32a/runs/29-01_08-22
+![image](https://user-images.githubusercontent.com/94752269/215329406-83f0e76d-071e-4015-8e48-62c31f78c4ab.png)
+
+openlane/configuration/floorplan.tcl
+
+![image](https://user-images.githubusercontent.com/94752269/215328808-01451fb8-b6c2-4d36-bec4-40d2a3407b24.png)
+
+openlane/designs/picorv32a/config.tcl
+
+![image](https://user-images.githubusercontent.com/94752269/215329088-f114e240-d18c-467b-bff3-58d3a5a2b3e2.png)
+
+openlane/designs/picorv32a/sky130A_sky130_fd_sc_hd_config.tcl
+
+![image](https://user-images.githubusercontent.com/94752269/215329228-2d619ede-2fcb-4491-96a0-785f8a1380ec.png)
+
 
 
 
