@@ -100,8 +100,21 @@ openlane/designs/picorv32a/sky130A_sky130_fd_sc_hd_config.tcl
 
 ![image](https://user-images.githubusercontent.com/94752269/215329228-2d619ede-2fcb-4491-96a0-785f8a1380ec.png)
 
+Floorplan def(design exchange file) file output:
+![image](https://user-images.githubusercontent.com/94752269/215336194-a663e23d-e596-42d2-bd4d-f74a90dee468.png)
 
+#Review floorplan layout in Magic
 
+![image](https://user-images.githubusercontent.com/94752269/215336711-7f7465c3-dc98-4f44-b582-2e82408bcf27.png)
+
+horizontal pin in metal layer 3
+![horizonatal pin](https://user-images.githubusercontent.com/94752269/215338207-f2d8ab3e-8183-4d92-ac6d-3ca3d5f5db2e.png)
+
+vertical pin in metal layer 2
+![vertical pin](https://user-images.githubusercontent.com/94752269/215338087-0d1ae2e2-b429-476e-ba5f-7269926aad5a.png)
+
+standard cell
+![standard cell](https://user-images.githubusercontent.com/94752269/215338548-c47a02a2-0d48-4679-a4d8-43ae193a9626.png)
 
 
 
