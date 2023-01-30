@@ -128,3 +128,19 @@ standard cell
 
 ![inv_spice](https://user-images.githubusercontent.com/94752269/215521054-79871ddc-18ca-4f6f-9be0-b57f19fc4c18.png)
 
+
+Using this transient response, we will now characterize the cell's slew rate and propagation delay:
+
+Rise Time [output transition time from 20%(0.66V) to 80%(2.64V)]:
+Rise Time = 2.24417 - 2.1828 = 0.0618 ns
+
+Fall Time [ouput transition time from 80%(2.64V) to 20%(0.66V)]:
+Fall Time = 8.09512 - 8.0679 = 0.02722 ns
+
+Rise Delay [delay between 50%(1.65V) of input to 50%(1.65V) of output]:
+Rise Delay = 6.15069 6.15 = 0.00069 ns
+
+Fall Delay [delay between 50%(1.65V) of input to 50%(1.65V) of output]:
+Fall Delay = 8.07770- 8.05075 = 0.02695 ns
+
+The characterization done above was done at 27 C.
