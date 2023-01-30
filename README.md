@@ -128,6 +128,8 @@ standard cell
 
 ![inv_spice](https://user-images.githubusercontent.com/94752269/215521054-79871ddc-18ca-4f6f-9be0-b57f19fc4c18.png)
 
+![inv_char_graph](https://user-images.githubusercontent.com/94752269/215557351-ddbb8b8c-0e91-4215-a287-d4c7d9cd0b60.png)
+
 
 Using this transient response, we will now characterize the cell's slew rate and propagation delay:
 
@@ -144,3 +146,5 @@ Fall Delay [delay between 50%(1.65V) of input to 50%(1.65V) of output]:
 Fall Delay = 8.07770- 8.05075 = 0.02695 ns
 
 The characterization done above was done at 27 C.
+
+
