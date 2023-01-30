@@ -120,23 +120,11 @@ standard cell
 
 ![placement in magic](https://user-images.githubusercontent.com/94752269/215349113-f8450733-8d29-45cd-b18a-eddc6e6ce238.png)
 
+#cmos inverter in magic
+![inv_magic](https://user-images.githubusercontent.com/94752269/215521049-8a69b215-29e8-4733-ab0f-b6827b1c039d.png)
 
-#characterization of CMOS inverter
-Using this transient response, we will now characterize the cell's slew rate and propagation delay:
+![nmos](https://user-images.githubusercontent.com/94752269/215521069-7443c2f2-14b1-43d8-b5a3-e49e68866426.png)
+![pmos](https://user-images.githubusercontent.com/94752269/215521080-2fe3a9fe-24c2-4c46-ad80-43596f763984.png)
 
-Rise Time [output transition time from 20%(0.66V) to 80%(2.64V)]:
-Rise Time = 2.24417 - 2.1828 = 0.0618 ns
-
-Fall Time [ouput transition time from 80%(2.64V) to 20%(0.66V)]:
-Fall Time = 8.09512 - 8.0679 = 0.02722 ns
-
-Rise Delay [delay between 50%(1.65V) of input to 50%(1.65V) of output]:
-Rise Delay = 6.15069 6.15 = 0.00069 ns
-
-Fall Delay [delay between 50%(1.65V) of input to 50%(1.65V) of output]:
-Fall Delay = 8.07770- 8.05075 = 0.02695 ns
-
-The characterization done above was done at 27 C.
-
-
+![inv_spice](https://user-images.githubusercontent.com/94752269/215521054-79871ddc-18ca-4f6f-9be0-b57f19fc4c18.png)
 
