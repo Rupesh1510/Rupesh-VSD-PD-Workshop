@@ -116,5 +116,9 @@ vertical pin in metal layer 2
 standard cell
 ![standard cell](https://user-images.githubusercontent.com/94752269/215338548-c47a02a2-0d48-4679-a4d8-43ae193a9626.png)
 
+#cell placement in magic
+
+![placement in magic](https://user-images.githubusercontent.com/94752269/215349113-f8450733-8d29-45cd-b18a-eddc6e6ce238.png)
+
 
 
